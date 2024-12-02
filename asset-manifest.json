@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prova2bBCCLP2/static/css/main.d221dc40.css",
+    "main.js": "/prova2bBCCLP2/static/js/main.b1dca5ca.js",
+    "static/media/404.jpg": "/prova2bBCCLP2/static/media/404.d8977cc9bb870f7698bc.jpg",
+    "index.html": "/prova2bBCCLP2/index.html",
+    "main.d221dc40.css.map": "/prova2bBCCLP2/static/css/main.d221dc40.css.map",
+    "main.b1dca5ca.js.map": "/prova2bBCCLP2/static/js/main.b1dca5ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.b1dca5ca.js"
+  ]
+}
